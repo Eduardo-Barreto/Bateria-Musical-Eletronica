@@ -12,6 +12,8 @@ Disponível em: https://www.tinkercad.com/things/9XQVIjeqt7I-teste-piezo-1
 
 ### Demonstração
 
+https://github.com/Eduardo-Barreto/Bateria-Musical-Eletronica/blob/master/Testes/Piezo/Piezo_1/Video.mp4
+
 
 ## Teste 2
 O segundo teste foi com todos os sensores ligados, com os positivos no GND e os negativos em cada porta analógica. O objetivo era obter as leituras em conjunto e identificar possíveis interferências, além de já montar o esqueleto básico do programa final.
@@ -19,3 +21,5 @@ O segundo teste foi com todos os sensores ligados, com os positivos no GND e os 
 Circuito | Diagrama
 ---------|---------
 <img src="./Piezo_2/Circuito.jpg" width="300" alt="Imagem do circuito"> | <img src="./Piezo_2/Diagrama.png" width="300" alt="Imagem do diagrama">
+
+Disponível em: https://www.tinkercad.com/things/9phVUrJ2S08-teste-piezo-2
