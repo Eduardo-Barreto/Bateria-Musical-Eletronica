@@ -12,7 +12,6 @@ int leituraPrato2 = 0;
 int sens = 1000;
 
 
-
 void setup() {
 
     Serial.begin(9600);
