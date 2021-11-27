@@ -19,7 +19,3 @@ O segundo teste foi com todos os sensores ligados, com os positivos no GND e os 
 Circuito | Diagrama
 ---------|---------
 <img src="./Piezo_2/Circuito.jpg" width="300" alt="Imagem do circuito"> | <img src="./Piezo_2/Diagrama.png" width="300" alt="Imagem do diagrama">
-
-
-### Demonstração
-<iframe  src="https://www.youtube.com/embed/Ymzg5gdv8jQ" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
