@@ -11,8 +11,11 @@ Circuito | Diagrama
 Disponível em: https://www.tinkercad.com/things/9XQVIjeqt7I-teste-piezo-1
 
 ### Demonstração
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=Ymzg5gdv8jQ"><img src="https://img.youtube.com/vi/Ymzg5gdv8jQ/0.jpg" alt="Demonstração em vídeo"></a>
+</div>
 
-https://github.com/Eduardo-Barreto/Bateria-Musical-Eletronica/blob/master/Testes/Piezo/Piezo_1/Video.mp4
+> Clique para ser redirecionado
 
 
 ## Teste 2
