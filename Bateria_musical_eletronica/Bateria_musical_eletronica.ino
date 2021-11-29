@@ -1,3 +1,4 @@
+// https://www.musicca.com/drums
 #include "Keyboard.h" // Lib que permite o controle de um teclado
 
 // Configuração dos pinos
@@ -9,11 +10,11 @@
 
 // Configuração das teclas usadas no jogo
 // Padrão Guitar Hero: A, S, J, K, L
-#define tecla1 'A'
-#define tecla2 'S'
+#define tecla1 'S'
+#define tecla2 'H'
 #define tecla3 'J'
-#define tecla4 'K'
-#define tecla5 'L'
+#define tecla4 'Y'
+#define tecla5 'U'
 
 // Variáveis que indicam o estado de cada piezo
 bool leituraTon1 = 0;
@@ -43,7 +44,7 @@ void setup() {
     pinMode(pinoTon2, INPUT_PULLUP);
     pinMode(pinoTon3, INPUT_PULLUP);
     pinMode(pinoPrato1, INPUT_PULLUP);
-    pinMode(pinoPr  ato2, INPUT_PULLUP);
+    pinMode(pinoPrato2, INPUT_PULLUP);
 
 }
 
