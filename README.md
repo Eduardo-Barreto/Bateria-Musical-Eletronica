@@ -8,8 +8,8 @@
 
 
 <p align="center">
- <a href="#-Ideia">Ideia</a> • 
- <a href="#-Escolha dos materiais">Escolha dos materiais</a> • 
+ <a href="#-ideia">Ideia</a> • 
+ <a href="#-escolha-dos-materiais">Escolha dos materiais</a> • 
  <a href="#-contribuindo">Contribuindo</a>
 </p>
 
