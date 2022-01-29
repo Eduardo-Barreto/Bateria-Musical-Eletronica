@@ -77,7 +77,7 @@ Orientadores:
 
 
 # 💡 Ideia
-Durante o desenvolvimento do ano de 2021, decidimos desenvolver um projeto com **robótica**, mas sempre buscamos relações e inspirações em outras áreas para desenvolver o que queremos. Dessa vez não foi diferente, resolvemos juntar isso com outras duas coisas que gostamos muito: a **música** e os **jogos**.
+Durante o ano de 2021, decidimos desenvolver um projeto com **robótica**, mas sempre buscamos relações e inspirações em outras áreas para desenvolver o que queremos. Dessa vez não foi diferente, resolvemos juntar isso com outras duas coisas que gostamos muito: a **música** e os **jogos**.
 
 A maioria das pessoas da nossa geração já jogou algum jogo relacionado a música, os mais conhecidos são o **Piano Tiles** (aquele joguinho de celular que você tem que apertar as teclas no momento certo) e o precursor e inspirador dele: o **Guitar Hero**, mais conhecido e um pouco mais complexo, envolvendo até instrumentos da vida real sendo adaptados como controles desse jogo, como guitarras, microfones e nesse caso, baterias.
 
@@ -103,7 +103,7 @@ Com os desenhos prontos, a tarefa de definir os materiais ficou bem mais simples
 - Tons e pratos: MDF
 - Encaixes especiais: Impressão 3D
 
-Quando analisamos nossos prazos e orçamentos, decidimos retirar o apoio inferior com os canos de PVC, diminuindo muito o custo e o tempo pra montar a versão final, se transformando numa espécie de bateria de mesa.
+Quando analisamos nossos prazos e orçamentos, decidimos retirar o apoio inferior com os canos de PVC, diminuindo muito o custo e o tempo pra montar a versão final, se transformando numa espécie de **bateria de mesa**.
 
 ![Desenho Final](Images/EscolhaMateriais/DesenhoFinal.png)
 
@@ -118,14 +118,16 @@ Para a bateria sentir onde foi a batida, decidimos usar **cápsulas piezoelétri
 
 Para gerenciar esses sinais, escolhemos um **microcontrolador** chamado **Arduino Pro Mini**, por ele ser bem compacto e ter uma semelhança intressante com o Arduino Leonardo, que é outra versão dessa família de microcontroladores: Eles conseguem **simular o pressionamento de uma tecla**, como se fosse um teclado conectado ao computador, assim conseguimos jogar qualquer jogo que dependa disso, desde o jogo da cobrinha, o dinossauro do Google e até o Guitar Hero, que é o nosso objetivo.
 
-![Arduino Pro Mini](Images/EscolhaMateriais/ArduinoProMini.png)
+<p align="center">
+    <img src="Images/EscolhaMateriais/ArduinoProMini.png" alt="Arduino Pro Mini">
+</p>
 
 # 🛠️ Confecção
 
 ## FabLab
 Com os materiais definidos e os desenhos prontos, começamos finalmente a colocar a mão na massa: Fomos cortar as chapas de MDF para os tons e os pratos e imprimir as peças na impressora 3D.
 
-Para isso, visitamos o **FabLab** do SESI Ipiranga, que é um laboratório criado para desenvolver a Cultura Maker, com impressoras 3D, máquina de corte a laser e tudo que é relacionado ao conceito de fabricaçao digital.
+Para isso, visitamos o **FabLab** do SESI Ipiranga, que é um laboratório criado para desenvolver a Cultura Maker, com impressoras 3D, máquina de corte a laser e tudo que é relacionado ao conceito de **fabricaçao digital**.
 
 <p align="center">
     <img src="Images/Confeccao/FabLab1.png" alt="FabLab 1" width="39%"></img>
@@ -141,7 +143,7 @@ Infelizmente a impressora 3D de lá estava em manutenção.
 
 Com todas as partes prontas, começamos a juntar tudo para montar a bateria. Essa parte foi mais simples, já que tínhamos os desenhos com todas as medidas corretas.
 
-Compramos os canos de PVC, mas precisávamos de uma serrinha para cortar e só tínhamos uma cegueta, daí improvisamos o "Dentinho": uma espécie de suporte com um resto de cano de PVC que sobrou, um pedaço de MDF de uma placa que acabamos cortando errado no FabLab, o cabo de um pirulito e um pouco superbonder. Foi uma gambiarra mas serviu muito bem pra gente.
+Compramos os canos de PVC, mas precisávamos de uma serrinha para cortar e só tínhamos uma cegueta, daí improvisamos o "**Dentinho**": uma espécie de suporte com um resto de cano de PVC que sobrou, um pedaço de MDF de uma placa que acabamos cortando errado no FabLab, o cabo de um pirulito e um pouco superbonder. Foi uma gambiarra mas serviu muito bem pra gente.
 
 <p align="center">
     <img src="Images/Confeccao/Dentinho.png" alt="Dentinho" width="24%"></img>
@@ -160,6 +162,7 @@ Pintamos os tons e pratos de MDF para encaixar na estrutura e a bateria estava q
 Essa parte não é tão complicada, tivemos alguns tropeços pra fazer funcionar mas deu certo. O circuito final é simplesmente o sensor piezo conectado num resistor interno do arduino e isso tudo ligado no computador via USB pra simular o teclado. A programação segue passos bem simples também, só identifica e filtra os sinais do sensor e envia o aperto de uma tecla para o computador.
 
 > Mais detalhes podem ser encontrados nos [nossos testes](/Testes/README.md).
+
 > A [pasta src](/src) contém programações para diferentes jogos, basta carregar e jogar.
 
 # 📫 Contribuindo
