@@ -2,25 +2,24 @@
     <img src="Images/Bateria.png" alt="Bateria"/>
 </p>
 <h1 align="center">Bateria Musical Eletrônica</h1>
-<p align="center">Uma bateria musical funcional feita do zero com diversos elementos da Cultura Maker</p>
-
-<h3 align="center">🚧 Em construção 🚧</h3>
-
+<p align="center"><b>Uma bateria musical funcional feita do zero com diversos elementos da Cultura Maker.</b></p>
 
 <p align="center">
+ <a href="#-demonstração">Demonstração</a> • 
  <a href="#-integrantes">Integrantes</a> • 
  <a href="#-ideia">Ideia</a> • 
  <a href="#-escolha-dos-materiais">Escolha dos materiais</a> • 
  <a href="#-contribuindo">Contribuindo</a>
 </p>
 
+---
+
 # 👤 Integrantes
 Esse projeto foi desenvolvido durante o ano de 2021 no SESI Vila das Mercês, na matéria de Eixo Integrador, pelos estudantes:
 
-<div align=center>
-
+<div align="center">
   <table style="width:100%">
-      <tr align=center>
+      <tr align="center">
           <th><strong>Eduardo Santos Barreto</strong></th>
           <th><strong>Heloisa Bitencourt dos Anjos</strong></th>
           <th><strong>Jessica Barbosa do Nascimento</strong></th>
@@ -29,7 +28,7 @@ Esse projeto foi desenvolvido durante o ano de 2021 no SESI Vila das Mercês, na
           <th><strong>Manuela Salmeron de Oliveira</strong></th>
           <th><strong>Samuel Oliveira Costa</strong></th>
       </tr>
-      <tr align=center>
+      <tr align="center">
           <td>
               <a href="https://github.com/Eduardo-Barreto">
                   <img width="90%" src="https://avatars.githubusercontent.com/u/34964398?v=4">
@@ -67,13 +66,26 @@ Esse projeto foi desenvolvido durante o ano de 2021 no SESI Vila das Mercês, na
           </td>
       </tr>
   </table>
-
 </div>
 
+<p align="center">
 Orientadores:
-- Vicente Arthur Viadana Neto
-- Priscilla Moore Scaldaferri
-- Wagner Manço da Luz
+Vicente Arthur Viadana Neto, 
+Priscilla Moore Scaldaferri,
+Wagner Manço da Luz
+</p>
+
+# ▶️ Demonstração
+
+<figure align="center">
+    <a href="https://youtu.be/6AVET8aYsqE">
+        <img  width="600" src="https://img.youtube.com/vi/6AVET8aYsqE/maxresdefault.jpg" />
+    </a>
+    <figcaption>
+        <b>Clique na imagem abaixo para ser redirecionado ao vídeo de demonstração da bateria funcionando!</b>
+    </figcaption>
+</figure>
+
 
 
 # 💡 Ideia
