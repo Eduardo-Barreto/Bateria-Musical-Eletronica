@@ -5,7 +5,7 @@
 <p align="center"><b>Uma bateria musical funcional feita do zero com diversos elementos da Cultura Maker.</b></p>
 
 <p align="center">
- <a href="#-demonstração">Demonstração</a> • 
+ <a href="#-demonstracao">Demonstração</a> • 
  <a href="#-integrantes">Integrantes</a> • 
  <a href="#-ideia">Ideia</a> • 
  <a href="#-escolha-dos-materiais">Escolha dos materiais</a> • 
